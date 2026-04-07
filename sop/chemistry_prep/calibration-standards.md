@@ -157,7 +157,7 @@ Starting solution: **10 ppm Y in 0.05% NO₃** (Section 9.1) and **5% NO₃ stoc
 
 #### 9.2.1 2 ppm Y in 5% NO₃
 
-1. Pipette **20 mL** of **10 ppm Y** into a **100 mL** volumetric flask.
+1. Pipette **10 mL** of **10 ppm Y** into a **50 mL** volumetric flask.
 2. Dilute to the mark with **5% NO₃ stock**.
 3. Result:
    - **2 ppm Y**
@@ -165,30 +165,22 @@ Starting solution: **10 ppm Y in 0.05% NO₃** (Section 9.1) and **5% NO₃ stoc
 
 #### 9.2.2 1 ppm Y in 5% NO₃
 
-1. Pipette **10 mL** of **10 ppm Y** into a **100 mL** volumetric flask.
+1. Pipette **5 mL** of **10 ppm Y** into a **50 mL** volumetric flask.
 2. Dilute to the mark with **5% NO₃ stock**.
 3. Result:
    - **1 ppm Y**
    - Matrix: ~5% NO₃.
 
-#### 9.2.3 0.5 ppm Y in 5% NO₃
+#### 9.2.3 0.2 ppm Y in 5% NO₃ (optional low-level check)
 
-1. Pipette **5 mL** of **10 ppm Y** into a **100 mL** volumetric flask.
-2. Dilute to the mark with **5% NO₃ stock**.
-3. Result:
-   - **0.5 ppm Y**
-   - Matrix: ~5% NO₃.
-
-#### 9.2.4 0.1 ppm Y in 5% NO₃ (optional low-level check)
-
-1. Pipette **1 mL** of **10 ppm Y** into a **100 mL** volumetric flask.
+1. Pipette **1 mL** of **10 ppm Y** into a **50 mL** volumetric flask.
 2. Dilute to the mark with **5% NO₃ stock**.
 3. Result:
    - **0.1 ppm Y**
    - Matrix: ~5% NO₃.
 
 > **Suggested Y calibration/verification series**:  
-> 0 (5% NO₃ blank), 0.1 ppm, 0.5 ppm, 1 ppm, 2 ppm Y in 5% NO₃.
+> 0 (5% NO₃ blank), 0.2 ppm, 1 ppm, 2 ppm Y in 5% NO₃.
 
 These standards:
 - Match the **5% NO₃ matrix** of the analyte standards.
