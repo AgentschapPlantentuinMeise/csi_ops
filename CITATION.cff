@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "CSI Operations - Standard Operating Procedures"
+message: "If you use these SOPs, please cite this repository."
+authors:
+  - family-names: "Van Neste"
+    given-names: "Christophe"
+    affiliation: "Meise Botanic Garden, Crop Source Investigations Lab"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/AgentschapPlantentuinMeise/csi_ops"
