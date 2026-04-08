@@ -1,0 +1,19 @@
+site_name: CSI Operations — SOP Repository
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: light blue
+nav:
+  - Home: README.md
+  - SOP Index: sop-index.md
+  - Chemistry Preparation:
+      - NO₃⁻ Stock Solution: sop/chemistry_prep/no3-stock-solution.md
+      - Calibration Standards: sop/chemistry_prep/calibration-standards.md
+      - CRM Quality Control: sop/chemistry_prep/crm-qc-procedure.md
+  - ICP:
+      - ICP-OES Operation: sop/icp/icp_oes.md
+  - Sample Preparation:
+      - Microwave Digestion: sop/sample-preparation/microwave_digestion.md
+      - Sample Sheet: sop/sample-preparation/samplesheet.md
+      - Tissue Lyser: sop/sample-preparation/tissue_lyser.md
