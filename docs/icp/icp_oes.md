@@ -487,10 +487,13 @@ Creating a new worksheet
 
 * Arie Ahmad  
 * Steven Van Droogenbroeck  
-* Christophe Van Neste  
+* Christophe Van Neste
+
+ VIII.
+ 
 * Victor Deklerck
 
-## VIII. Maintenance journal
+## IX. Maintenance journal
 
 *Table 4: maintenance journal*
 

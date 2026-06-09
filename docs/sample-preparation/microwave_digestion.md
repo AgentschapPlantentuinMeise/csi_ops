@@ -428,10 +428,12 @@ In case of question or concerns about the correct waste disposal rules refer to 
 2. Contributors:  
 * Arie Ahmad  
 * Steven Van Droogenbroeck  
-* Christophe Van Neste  
+* Christophe Van Neste
+
+3. Review:
 * Victor Deklerck
 
-3. ## Maintenance journal
+4. ## Maintenance journal
 
 *Table 6: maintenance journal.*
 
