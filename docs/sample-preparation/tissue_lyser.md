@@ -1,4 +1,4 @@
-# **Standard Operating Procedure – Sample Preparation for Acid Digestion via Sample Disruption using a *QIAGEN TissueLyser III* ball mill**
+# Standard Operating Procedure – Sample Preparation for Acid Digestion via Sample Disruption using a *QIAGEN TissueLyser III* ball mill
 
 # 1\. Introduction
 
@@ -10,18 +10,8 @@ This procedure may be applied to any organic sample that is amenable to sample d
 
 # 3\. Room and apparatus reservation
 
-To perform an acid digestion an reservation must be planned into the labs shared google agenda to avoid conflicts.
-
-1. Open Google Calendar on your device.  
-2. Tap \<+ Create\> to create a reservation.  
-3. Enter the title of the agenda-point that must consist of:  
-   - WHO;  
-   - WHERE (what lab-space): Pre-PCR (main lab);  
-   - WHAT (experiment \+ possible need for fume-hood or appliances).  
-     - TissueLyser III \- Sample disruption  
-4. Enter the desired day and time-window.  
-5. Select the appropriate room (LAB: Pre-PCR (main lab).  
-6. Tap \<Save\> to save and create the reservation.
+For details see **SOP Reservation** with LOCATION = Pre-PCR (main lab)
+and DEVICES as mentioned in this SOP and per requirements.
 
 **The room and the apparatus must be reserved at least one day prior to the planned experiment\!**
 
